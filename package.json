@@ -1,0 +1,53 @@
+{
+  "name": "reformogen-redux",
+  "version": "0.2.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "dependencies": {
+    "es6-error": "^4.1.1",
+    "js-cookie": "^2.2.0",
+    "lodash": "^4.17.11",
+    "react": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "redux-saga": "^1.0.0",
+    "reformogen": "^0.2.0",
+    "reselect": "^4.0.0",
+    "superagent": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-async-generator-functions": "^7.1.0",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "@babel/plugin-proposal-do-expressions": "^7.0.0",
+    "@babel/plugin-proposal-export-default-from": "^7.0.0",
+    "@babel/plugin-proposal-export-namespace-from": "^7.0.0",
+    "@babel/plugin-proposal-function-bind": "^7.0.0",
+    "@babel/plugin-proposal-function-sent": "^7.1.0",
+    "@babel/plugin-proposal-json-strings": "^7.0.0",
+    "@babel/plugin-proposal-logical-assignment-operators": "^7.0.0",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.0.0",
+    "@babel/plugin-proposal-numeric-separator": "^7.0.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-proposal-optional-catch-binding": "^7.0.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.0.0",
+    "@babel/plugin-proposal-pipeline-operator": "^7.0.0",
+    "@babel/plugin-proposal-throw-expressions": "^7.0.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/plugin-syntax-import-meta": "^7.0.0",
+    "@babel/plugin-transform-react-constant-elements": "^7.0.0",
+    "@babel/plugin-transform-react-inline-elements": "^7.0.0",
+    "@babel/plugin-transform-react-jsx-source": "^7.0.0",
+    "@babel/preset-flow": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-lodash": "^3.3.4",
+    "babel-plugin-react-docgen": "^2.0.0",
+    "babel-plugin-react-intl-auto": "^1.6.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.23",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}

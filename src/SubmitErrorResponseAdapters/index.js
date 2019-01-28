@@ -1,0 +1,1 @@
+export { DRFSubmitErrorResponseAdapter } from './DefaultDRFAdapter';
