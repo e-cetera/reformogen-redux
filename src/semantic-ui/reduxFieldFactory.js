@@ -7,7 +7,6 @@ import {
   initialFieldValue,
   fieldErrors,
 } from '../selectors';
-
 import { storeFieldData } from '../actions';
 
 

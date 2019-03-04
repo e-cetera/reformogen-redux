@@ -9491,10 +9491,10 @@ reformogen@^0.1.2:
     webpack-manifest-plugin "2.0.4"
     workbox-webpack-plugin "3.6.2"
 
-reformogen@^0.2.0:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/reformogen/-/reformogen-0.2.1.tgz#2fd37104495861a39e1086ab3659cbecff8e025a"
-  integrity sha512-TVm1GOhrr06qbhuGXebuA6Cd9ZJ6ZYKRV7AbX7zw9312QaX4ALqV0LgFUGtEdllelZLH7VjuoMZ1s9LAs7hMkA==
+reformogen@^0.2.8:
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/reformogen/-/reformogen-0.2.8.tgz#247b2dcfec18efcb51823fece938ec50c98ff2da"
+  integrity sha512-0GPzi/spXix4j3vwF/Y+B4DZmvpAgHOZezYTxLb/aE1bIA4EXlVHUXWO9+llwYXayYL3Rr6gQ9GwJXcdFcKbSQ==
   dependencies:
     "@babel/core" "7.1.2"
     "@babel/polyfill" "^7.0.0"

@@ -1,5 +1,4 @@
 import { isString } from 'lodash';
-
 import { fields } from 'reformogen/build/formogen/semantic-ui';
 
 import { asyncFieldOptions, dirtyFieldValue } from '../selectors';

@@ -1,6 +1,5 @@
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
-
 import { FormogenForm as FormogenFormComponent } from 'reformogen/build/formogen/FormogenForm';
 
 import { metaData, legacyNonFieldErrorsMap } from './selectors';
