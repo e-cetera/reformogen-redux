@@ -1,3 +1,4 @@
+import '@babel/polyfill';
 import superagent from 'superagent';
 import { delay } from 'redux-saga';
 import Cookies from 'js-cookie';

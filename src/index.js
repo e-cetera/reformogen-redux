@@ -1,3 +1,5 @@
+import '@babel/polyfill';
+
 export * from './actions';
 export * from './selectors';
 export { processError } from './apiHelpers';

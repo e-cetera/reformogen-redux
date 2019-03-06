@@ -1,12 +1,13 @@
 {
   "name": "reformogen-redux",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "main": "build/index.js",
   "license": "MIT",
   "scripts": {
     "build": "babel src -d build"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.2.5",
     "es6-error": "^4.1.1",
     "js-cookie": "^2.2.0",
     "lodash": "^4.17.11",
@@ -14,7 +15,7 @@
     "react-redux": "^6.0.0",
     "redux": "^4.0.1",
     "redux-saga": "^1.0.0",
-    "reformogen": "^0.2.8",
+    "reformogen": "^0.3.6",
     "reselect": "^4.0.0",
     "superagent": "^4.1.0"
   },
